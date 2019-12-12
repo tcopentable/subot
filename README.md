@@ -32,7 +32,7 @@ Then you can interact with subot by typing `subot help`.
     subot> subot help
     subot animate me <query> - The same thing as `image me`, except adds [snip]
     subot help - Displays all of the help commands that subot knows about.
-    ...
+    
 
 ### Configuration
 
