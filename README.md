@@ -40,7 +40,7 @@ A few scripts (including some installed by default) require environment
 variables to be set as a simple form of configuration.
 
 Each script should have a commented header which contains a "Configuration"
-section that explains which values it requires to be placed in which variable.
+section that explains which valus it requires to be placed in which variable.
 When you have lots of scripts installed this process can be quite labour
 intensive. The following shell command can be used as a stop gap until an
 easier way to do this has been implemented.
